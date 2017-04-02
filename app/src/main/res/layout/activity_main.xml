@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_landing_bg"
+    tools:context="com.zipprassignment.vidyanand.zipprcodechallenge.activity.MainActivity">
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:drawableLeft="@drawable/ic_instagram"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:text="@string/start_with_instagram"
+        android:textAllCaps="false"
+        android:textColor="@color/colorBtnText"
+        android:textSize="18dp" />
+
+</RelativeLayout>

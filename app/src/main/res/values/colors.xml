@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorProgressDialog">#FBFBFB</color>
+    <color name="colorProgressDialogBg">#A0000000</color>
+    <color name="colorBtnText">#336189</color>
+    <color name="colorHeaderBlue">#6643FD</color>
+</resources>

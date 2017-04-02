@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZipprCodeChallenge</string>
+    <string name="start_with_instagram">Get Instagram Photos</string>
+    <string name="select_image">Select Image</string>
+
+    <string name="msg_no_photo_found">No Photo Found!</string>
+    <string name="msg_unable_to_fetch_images">Unable to fetch photos! Please try again</string>
+    <string name="msg_something_went_wrong">Oops! Something went wrong...</string>
+    <string name="original_picture">Original Picture</string>
+    <string name="rearranged_view">Rearranged View</string>
+</resources>
